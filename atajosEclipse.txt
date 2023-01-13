@@ -1,0 +1,18 @@
+atajos java//eclipse
+
+CTRL + K	Rastrea la variable seleccionada
+CTRL + F	Buscar / Reemplazar una palabra
+CTRL + D	Eliminar la fila
+CTRL + SUPR	Eliminar la siguiente palabra
+CTRL + RETRO	Eliminar la anterior palabra
+CTRL + MAY + SUPR	Eliminar hasta el final
+CTRL + 7	Comenta el texto seleccionado
+
+
+Acción	Atajo	Descripción
+Escribir main,pulsar CTRL + ESPACIO y seleccionar main method
+Escribir syso y pulsar CTRL + ESPACIO
+Escribir if,pulsar CTRL + ESPACIO y seleccionar la opción statement	
+Escribir for,pulsar CTRL + ESPACIO y seleccionar la opción
+Escribir while,pulsar CTRL + ESPACIO y seleccionar la opción
+Escribir do,pulsar CTRL + ESPACIO y seleccionar la opción
