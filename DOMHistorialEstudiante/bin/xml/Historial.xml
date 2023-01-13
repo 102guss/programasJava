@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<estudiante>
+
+	<matricula>16-011-0003</matricula>                   <!--string- -->
+	<licenciatura>Ingenieria de Software</licenciatura>  <!--string- -->
+	<plantel>Cuautepec</plantel>                         <!--string- -->
+	
+	<apellidoPaterno> Juan </apellidoPaterno>            <!--string- -->
+	<apellidoMaterno> Arroyo </apellidoMaterno>
+	<nombre> Jesús </nombre>
+	
+	<correoInstitucional>jesus.juan.arroyo@estudiante.uacm.edu.mx</correoInstitucional> <!--string que valide el formato- -->
+	
+	<semestre> 8 </semestre>                             <!--int- -->
+	
+	<ciclos>
+	<cicloBasico>
+		<materias semestre="1">
+			<materia>
+				<nombre> Mecanica 1 </nombre>			<!--string- -->
+				<calificacion> 8 </calificacion>		<!--string o int que dependera del usuario- -->
+			</materia>
+			 
+			<materia>
+				<nombre> Álgebra y geometria analitica </nombre>    <!--string- -->
+				<calificacion> 9 </calificacion>                    <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Cálculo Diferencial </nombre>              <!--string- -->
+				<calificacion> 7 </calificacion>                    <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Introducción a la Programación </nombre>   <!--string- -->
+				<calificacion> 9 </calificacion>                    <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Matematicas discretas </nombre>            <!--string- -->
+				<calificacion> 9 </calificacion>                    <!--string o int que dependera del usuario- -->
+			</materia>
+		</materias>
+		
+		<materias semestre="2">
+			<materia>
+				<nombre> Cálculo integral </nombre>                <!--string- -->
+				<calificacion> 7 </calificacion>                   <!--string o int que dependera del usuario- -->
+			</materia>
+			 
+			<materia>
+				<nombre> Álgebra lineal </nombre>                  <!--string- -->
+				<calificacion> 7 </calificacion>                   <!--string o int que dependera del usuario- --> 
+			</materia>
+			
+			<materia>
+				<nombre> Mecanica 2 </nombre>                     <!--string- -->
+				<calificacion> 7 </calificacion>                  <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Introducción a la ingenieria de software </nombre>  <!--string- -->
+				<calificacion> 7 </calificacion>                  <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Estudios sociales he istoricos 2 </nombre>  <!--string- -->
+				<calificacion> 10 </calificacion>                 <!--string o int que dependera del usuario- -->
+			</materia>
+		</materias>
+		
+		<materias semestre="3">
+			<materia>
+				<nombre> Cálcculo vectorial </nombre>            <!--string- -->
+				<calificacion> 9 </calificacion>                 <!--string o int que dependera del usuario- -->
+			</materia>
+			 
+			<materia>
+				<nombre> Ecuaciones ddiferenciales ordinarias </nombre> <!--string- -->
+				<calificacion> Sin acreditar </calificacion>            <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Termodinamica y fluidos </nombre>       <!--string- --> 
+				<calificacion> 10 </calificacion>                <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Pramación orientada a objetos </nombre>  <!--string- -->
+				<calificacion> 8 </calificacion>                  <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Estudios Sociales he historicos 1 </nombre>   <!--string- -->
+				<calificacion> 10 </calificacion>                      <!--string o int que dependera del usuario- -->
+			</materia> 
+		</materias>
+		
+		<materias semestre="4">
+			<materia>
+				<nombre> Metodos Numericos </nombre>           <!--string- -->
+				<calificacion> 9 </calificacion>               <!--string o int que dependera del usuario- -->
+			</materia>
+			 
+			<materia>
+				<nombre> Estadstica y probabiliad </nombre>    <!--string- -->
+				<calificacion> 10 </calificacion>              <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Electricidad y Magnetismo </nombre>    <!--string- -->
+				<calificacion> 10 </calificacion>               <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Estructura de datos </nombre>        <!--string- -->
+				<calificacion> Sin acreditar </calificacion>  <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Estudios sociales hehistoricos 3 </nombre> <!--string- -->
+				<calificacion> 9 </calificacion>          <!--string o int que dependera del usuario- -->
+			</materia>
+		</materias>
+	</cicloBasico>
+	
+	
+	<cicloSuperior>
+	<materias semestre="6">
+			<materia>
+				<nombre> Analisis de algoritmos  </nombre>      <!--string- -->
+				<calificacion> 7 </calificacion>                <!--string o int que dependera del usuario- -->
+			</materia>
+			 
+			<materia>
+				<nombre> Teoria de la comunicacion </nombre>     <!--string- -->
+				<calificacion>  </calificacion>                  <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Construccion y evolucion del software </nombre>    <!--string- -->
+				<calificacion> 9 </calificacion>                            <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Base de datos </nombre>                   <!--string- -->
+				<calificacion> 10 </calificacion>                  <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Analisis de requisitos </nombre>         <!--string- -->
+				<calificacion> 9 </calificacion>                  <!--string o int que dependera del usuario- -->
+			</materia> 
+		</materias>
+		
+		<materias semestre="6">
+			<materia>
+				<nombre> Programación web </nombre>              <!--string- -->
+				<calificacion> 8 </calificacion>                 <!--string o int que dependera del usuario- -->
+			</materia>
+			 
+			<materia>
+				<nombre> Sistemas operativos </nombre>           <!--string- -->
+				<calificacion> 8 </calificacion>                 <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia> 
+				<nombre> Aseguramiento de la calidad de software </nombre>    <!--string- -->
+				<calificacion> 8 </calificacion>                              <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Analisis y modelamiento de software </nombre>         <!--string- -->
+				<calificacion> 8 </calificacion>                               <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Programacion de sistemas </nombre>                    <!--string- -->
+				<calificacion> Sin acrditar  </calificacion>                   <!--string o int que dependera del usuario- -->
+			</materia>
+		</materias>
+		
+		<materias semestre="7">
+			<materia> 
+				<nombre> Arquitectura de computadoras </nombre>              <!--string- -->
+				<calificacion> 8 </calificacion>                             <!--string o int que dependera del usuario- -->
+			</materia>
+			 
+			<materia>
+				<nombre> Lenguajes de programación </nombre>                 <!--string- -->
+				<calificacion> 9 </calificacion>                             <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Tecnicas de pruebas de software </nombre>           <!--string- -->
+				<calificacion> Sin acreditar </calificacion>                 <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Diseño de software </nombre>                        <!--string- -->
+				<calificacion> 8 </calificacion>                             <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Metodologia de la investigacion </nombre>           <!--string- -->
+				<calificacion> sin acreditar </calificacion>                 <!--string o int que dependera del usuario- -->
+			</materia>
+		</materias>
+		
+		<materias semestre="8">
+			<materia>
+				<nombre> Redes de computadoras </nombre>                     <!--string- -->
+				<calificacion> 7 </calificacion>                             <!--string o int que dependera del usuario- -->
+			</materia>
+			 
+			<materia>
+				<nombre> Normatividad y legislacion </nombre>                <!--string- -->
+				<calificacion> 10 </calificacion>                            <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Arquitectura de software </nombre>                  <!--string- -->
+				<calificacion> 9 </calificacion>                             <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Administracion de base de datos </nombre>          <!--string- -->
+				<calificacion> 10 </calificacion>                           <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> XML 2 </nombre>                                   <!--string- -->
+				<calificacion> 9 </calificacion>                           <!--string o int que dependera del usuario- -->
+			</materia>
+		</materias>
+		
+		<materias semestre="9">
+			<materia>
+				<nombre> Sistemas distribuidos </nombre>                   <!--string- -->
+				<calificacion> Sin acreditar </calificacion>               <!--string o int que dependera del usuario- -->
+			</materia>
+			 
+			<materia>
+				<nombre> Administracion de proyectos 1 </nombre>            <!--string- -->
+				<calificacion> 10 </calificacion>                           <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Metricas de software </nombre>                    <!--string- -->
+				<calificacion> Sin acreditar </calificacion>               <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Especialidad de base e datos 1 </nombre>           <!--string- -->
+				<calificacion> 9 </calificacion>                            <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Curso Optativo </nombre>                           <!--string- -->
+				<calificacion> Sin acreditar </calificacion>                <!--string o int que dependera del usuario- -->
+			</materia>
+		</materias>
+		
+		<materias semestre="10">
+			<materia>
+				<nombre> Diseño de experimentos en ingenieria de software  </nombre>   <!--string- -->
+				<calificacion> Sin acreditar </calificacion>                           <!--string o int que dependera del usuario- -->
+			</materia>
+			 
+			<materia>
+				<nombre> Admnistracion de proyectos 2 </nombre>                          <!--string- -->
+				<calificacion> Sin acreditar </calificacion>                             <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Gestión tecnologica </nombre>                                <!--string- -->
+				<calificacion> Sin acreditar </calificacion>                          <!--string o int que dependera del usuario- -->
+			</materia>
+			
+			<materia>
+				<nombre> Curso Optativo  </nombre>                     <!--string- -->
+				<calificacion> Sin aceditar  </calificacion>           <!--string o int que dependera del usuario- --> 
+			</materia>
+			
+			<materia>
+				<nombre> Curso Optativo</nombre>                        <!--string- -->
+				<calificacion> Sin acreditar </calificacion>            <!--string o int que dependera del usuario- -->
+			</materia>
+		</materias>
+	
+	</cicloSuperior>
+	</ciclos>
+ 
+</estudiante>

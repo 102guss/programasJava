@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Patient xmlns:tns="http://www.uacm.edu.mx/Patient" 
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		 xsi:schemaLocation="http://www.uacm.edu.mx/Patient PatientXMLSchema.xsd " 
+		 Id ="100">
+  
+  <name>Gerardo</name>
+  <age>39</age>
+  <email>gerardohernandez.hernadez@gmail.com</email>
+  <gender>M</gender>
+  <phone>5454651649879</phone>
+  <phone>123456</phone> 
+  <paymentType > 
+  	
+  	<!--  efectivo> 5634123.33</efectivo -->
+  	
+  	<!--  credito>
+  		<numeroTarjeta>1234-1234-1234-1234</numeroTarjeta>
+		<nombreTarjeta>Gerardo Hernandez </nombreTarjeta>
+		<tipo>MasterCard</tipo>
+		<monto>5500.50</monto>
+		<meses>6</meses> 
+  	</credito -->
+	
+	<seguro>
+		<!--  privado>
+			<aseguradora> AXXA</aseguradora>
+			<poliza>123-123-12334</poliza>
+			<padecimiento>alcoholismo</padecimiento> 
+			<hospital>Angeles</hospital>
+		</privado -->
+
+		<publico>
+		<publico1>
+			<institucion>IMSS</institucion>
+			<nss>9090909</nss> 
+			<nssAgregado>12345</nssAgregado>
+			<nombreAgregado>12345-GHH</nombreAgregado>
+			</publico1>
+		</publico>
+		
+	</seguro>
+	
+   </paymentType>
+
+</Patient>
