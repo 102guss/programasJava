@@ -9,10 +9,15 @@ CTRL + MAY + SUPR	Eliminar hasta el final
 CTRL + 7	Comenta el texto seleccionado
 
 
-Acci髇	Atajo	Descripci髇
+Acci贸n	Atajo	Descripci贸n
 Escribir main,pulsar CTRL + ESPACIO y seleccionar main method
 Escribir syso y pulsar CTRL + ESPACIO
-Escribir if,pulsar CTRL + ESPACIO y seleccionar la opci髇 statement	
-Escribir for,pulsar CTRL + ESPACIO y seleccionar la opci髇
-Escribir while,pulsar CTRL + ESPACIO y seleccionar la opci髇
-Escribir do,pulsar CTRL + ESPACIO y seleccionar la opci髇
+Escribir if,pulsar CTRL + ESPACIO y seleccionar la opci贸n statement	
+Escribir for,pulsar CTRL + ESPACIO y seleccionar la opci贸n
+Escribir while,pulsar CTRL + ESPACIO y seleccionar la opci贸n
+Escribir do,pulsar CTRL + ESPACIO y seleccionar la opci贸n
+
+alt+shift+s...ventana demetodos Tostrin y seters an geters
+
+shift + flecha....para seleccionar el azul 
+control+s..pa guardar cambios
